@@ -11,7 +11,9 @@
     "url": "git+https://github.com/corycalaway/portfolio-generator.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": { "type": "MIT"
+    , "url": "https://www.opensource.org/licenses/mit-license.php"
+    },
   "bugs": {
     "url": "https://github.com/corycalaway/portfolio-generator/issues"
   },
